@@ -1,0 +1,42 @@
+h1 {
+    color: green;
+    font-style: oblique ;
+    font-family: monospace;
+    font-size: 40px;
+}
+h2{
+    color: green;
+}
+li{
+    font-size: 20px;
+    font-style: italic;
+}
+img {
+margin-right: 20px;
+border: solid 3px green;
+border-radius: 100px;
+float: right;
+/* clip-path: circle(100px at 50% 50%); */
+/* margin-left: 100px; */
+}
+
+input{
+    padding: 10px 150px 10px 0px;
+    
+    border: green solid 3px;
+    border-radius: 4px;
+}
+
+
+button {
+    background-color: green;
+    padding: 10px 12px;
+    border-radius: 4px;
+    border: solid green;
+    
+}
+
+html {
+    margin: 50px 100px 50px 100px;
+    
+}
